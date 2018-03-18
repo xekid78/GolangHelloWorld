@@ -1,0 +1,2 @@
+# GolangHelloWorld
+HelloWorldと表示
